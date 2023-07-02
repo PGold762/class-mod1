@@ -34,9 +34,7 @@ This is a basic HTML site that I have edited to meet accessibility standards and
 
 Screenshot: 
 
-    ```md
     ![Example of meeting accessibility standards](assests/images/challenge-01-screenshot.png)
-    ```
 
 ## Credits
 
