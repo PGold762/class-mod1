@@ -2,7 +2,7 @@
 
 ## Description
 
-Client is wanting us to refactor their website to meet accessibility standards and optimized for SEO.
+Client is wanting us to refactor their website to meet accessibility standards and optimize for SEO.
 
 ### User Story
 
@@ -30,21 +30,17 @@ Download the files from the repo and install on domain. Should work instantly.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+This is a basic HTML site that I have edited to meet accessibility standards and using HTML Elements.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Screenshot: 
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Example of meeting accessibility standards](assests/images/challenge-01-screenshot.png)
     ```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Used this site as a reference: https://www.w3schools.com/html/html5_semantic_elements.asp to help guide me on what the Semantic Elements are to use.
 
 ## License
 
